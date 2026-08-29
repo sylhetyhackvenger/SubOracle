@@ -1,4 +1,7 @@
 # SubOracle: Advanced Subdomain Intelligence & Attack Surface Reconnaissance Framework
+<p align="center">
+  <img src="assets/1.png" alt="Banner 1" width="100%">
+</p>
 
 <div align="center">
 
@@ -226,6 +229,9 @@ Usage Challenges
 · Skill Curve: Advanced features require understanding of DNS and web security concepts
 
 ---
+<p align="center">
+  <img src="assets/2.png" alt="Banner 2" width="100%">
+</p>
 
 🚀 Quick Start
 
