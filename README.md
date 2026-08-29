@@ -1,10 +1,6 @@
 # SubOracle: Advanced Subdomain Intelligence & Attack Surface Reconnaissance Framework
 
 <div align="center">
-<!-- Project Branding -->
-![SubOracle](https://img.shields.io/badge/SubOracle-Subdomain%20Intelligence%20Framework-red?style=for-the-badge&logo=target)
-![Security](https://img.shields.io/badge/Category-Cybersecurity-blue?style=for-the-badge&logo=hackthebox)
-![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge)
 
 <!-- Version & Development -->
 ![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge&logo=semver)
