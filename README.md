@@ -1,4 +1,4 @@
-Suboracle
+# Suboracle
 
 <div align="center">
 
@@ -11,7 +11,7 @@ https://img.shields.io/badge/Version-Complete-red.svg
 
 ---
 
-📖 Description (1200+ Characters)
+📖 Description
 
 Suboracle is a comprehensive, feature-rich subdomain reconnaissance and security auditing tool built for cybersecurity professionals, penetration testers, and bug bounty hunters. This complete edition integrates over 25 specialized scanning modules to provide an unprecedented level of intelligence gathering for any target domain.
 
@@ -27,7 +27,7 @@ The complete edition includes IP geolocation mapping, DNS history tracking, DNSS
 
 ---
 
-🎯 Complete Capabilities List (1200+ Characters)
+🎯 Complete Capabilities List 
 
 🔍 Subdomain Discovery & Enumeration
 
