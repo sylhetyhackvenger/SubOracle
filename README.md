@@ -1,14 +1,31 @@
 # SubOracle: Advanced Subdomain Intelligence & Attack Surface Reconnaissance Framework
 
 <div align="center">
+<!-- Project Branding -->
+![SubOracle](https://img.shields.io/badge/SubOracle-Subdomain%20Intelligence%20Framework-red?style=for-the-badge&logo=target)
+![Security](https://img.shields.io/badge/Category-Cybersecurity-blue?style=for-the-badge&logo=hackthebox)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge)
 
-https://img.shields.io/badge/Python-3.6+-blue.svg
-https://img.shields.io/badge/License-MIT-green.svg
-https://img.shields.io/badge/Status-Active-brightgreen.svg
-https://img.shields.io/badge/Version-Complete-red.svg
+<!-- Version & Development -->
+![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge&logo=semver)
+![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python)
+![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Termux-black?style=for-the-badge&logo=linux)
 
+<!-- Security Research -->
+![Recon](https://img.shields.io/badge/Tool-Subdomain%20Recon-purple?style=for-the-badge&logo=searchengineland)
+![OSINT](https://img.shields.io/badge/OSINT-Enabled-blueviolet?style=for-the-badge&logo=opensourceinitiative)
+![Pentesting](https://img.shields.io/badge/Pentesting-Lab%20Use-red?style=for-the-badge&logo=kalilinux)
+
+<!-- Repository -->
+![GitHub Stars](https://img.shields.io/github/stars/sylhetyhackvenger/SubOracle?style=for-the-badge&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/sylhetyhackvenger/SubOracle?style=for-the-badge&logo=github)
+![GitHub Issues](https://img.shields.io/github/issues/sylhetyhackvenger/SubOracle?style=for-the-badge&logo=github)
+![GitHub License](https://img.shields.io/github/license/sylhetyhackvenger/SubOracle?style=for-the-badge)
+
+<!-- Author Branding -->
+![Author](https://img.shields.io/badge/Author-SYLHETYHACKVENGER-red?style=for-the-badge&logo=protonmail)
+![Cybersecurity](https://img.shields.io/badge/Focus-Information%20Security-black?style=for-the-badge&logo=securityscorecard)
 </div>
-
 ---
 
 📖 Description
