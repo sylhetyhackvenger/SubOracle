@@ -1,4 +1,4 @@
-# Suboracle
+# SubOracle: Advanced Subdomain Intelligence & Attack Surface Reconnaissance Framework
 
 <div align="center">
 
