@@ -266,6 +266,13 @@ Arguments:
 ---
 
 📄 Legal Notice
+<div align="center">
+
+<img src="https://media.giphy.com/media/2JTJ3jA3N6rDy/giphy.gif"
+     width="100%"
+     alt="Smaug the Terrible">
+
+</div>
 
 IMPORTANT: This tool is designed for educational purposes, authorized security testing, and research only.
 
